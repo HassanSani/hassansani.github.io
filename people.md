@@ -6,7 +6,7 @@ title: People
 ## Lab Members
 ## Principal Investigator
 
-**Dr. Sani Hassan**  
+**Mr. Sani Hassan**  
 Principal Investigator  
 Interests: Climate stress biology, neural adaptation, mosquito fitness  
 
