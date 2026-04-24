@@ -64,7 +64,7 @@ Our 2025 cohort comprises eight research groups investigating the impacts of hig
 ---
 
 ## Lab Group Photo (2025)
-![Climate Adaptation Laboratory - 2025 Undergraduate Research Cohort](assets/images/lab-group-2025.jpg)
+![Climate Adaptation Laboratory - 2025 Undergraduate Research Cohort](assets/images/lab-group-2025.jpg.jpg)
 
 ---
 
