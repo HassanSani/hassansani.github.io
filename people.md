@@ -17,19 +17,19 @@ Interests: Climate stress biology, neural adaptation, mosquito fitness
 <details open>
 <summary><strong>2026 (Current)</strong></summary>
 
-**Undergraduate Research 2026** – Pilot Study on Fitness and Biochemical Basis of Thermal Tolerance in Drosophila - Translatable into Anopheles Mosquitoe  
+Pilot Study on Fitness and Biochemical Basis of Thermal Tolerance in Drosophila - Translatable into Anopheles Mosquitoe  
  
-Muhammad Sidi Husna
-Anthony Princess Amarachi
-Degge Favour Ashikisoko
-Abdulazeez Moturayo Khadijat
-Stephen Jeremiah
-David Joy Funmilayo
-Adewumi
-Faithful Abel Demsa
-Agada Ene Maryann
-Onovo Augustine Chiemeria
-Ibrahim Oshla Tsaku
+-Muhammad Sidi Husna
+-Anthony Princess Amarachi
+-Degge Favour Ashikisoko
+-Abdulazeez Moturayo Khadijat
+-Stephen Jeremiah
+-David Joy Funmilayo
+-Adewumi
+-Faithful Abel Demsa
+-Agada Ene Maryann
+-Onovo Augustine Chiemeria
+-Ibrahim Oshla Tsaku
 Boniface Favour Nmesomma
 Yohanna Nenkit
 Umoru Abass Tayibat
